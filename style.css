@@ -1,0 +1,7 @@
+h1:hover{
+    border-radius:30px;
+	box-shadow:3px 5px 9px 3px darkblue;
+	border-width:6px;
+	border-color:pink;
+	cursor: pointer;
+}
